@@ -194,7 +194,7 @@ async def output_guardrail_fn(
 # Tool: Retrieve user info
 # ========================================
 # Static user data for demonstration
-user_data = UserInfo(name="samad", account_number="987654321", balance=150000.0, pin=4321)
+user_data = UserInfo(name="samad", account_number="33254985", balance=9000050000.0, pin=4321)
 
 # Define as a callable tool the agent can use
 @function_tool
